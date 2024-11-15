@@ -1,0 +1,261 @@
+body
+{
+ background-color: black;
+ color:#fff;
+}
+.header
+{
+    width: 100%; 
+    height: 100%;     
+    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)), url("Image\g.207.dharshan.1.JPG");
+    background-size:auto;  
+    background-position:left; 
+    padding:5px -100% ;
+    position: relative;
+   
+}
+.nav{
+    
+    align-items:center;
+    justify-content: space-between;
+    padding: 90px 50;
+ }
+.logo{
+    width: 500px;
+    height: 800px;;
+    cursor:progress ;
+    display: flex;
+ }
+ .ece
+ {  position: absolute;
+    top:30%;
+    left: 65%;
+    font-size:100%;
+    transform: translate(-50%,-50%);
+    text-align: center;
+    margin: top 0%;
+    display: flex;
+    align-items: flex-end;
+  }
+
+ 
+ .name
+ {
+   position: absolute;
+   top:20%;
+   left: 65%;
+   font-size:300%;
+   transform: translate(-50%,-50%);
+   text-align: center;
+   margin: top 0%;
+   display: flex;
+   
+ }
+ .About 
+ {  position: absolute;
+    top:45%;
+    left:40%;
+    font-size:70%;
+    font-style:normal;    
+    text-decoration:underline;
+    text-transform: uppercase;
+    transform: translate(-50%,-50%);
+    text-align: center;
+    margin: top 100px;
+    display: flex;
+  }
+  .ME
+  {
+    position: absolute;
+    top:54%;
+    left:63%;
+    font-size:100%;
+    font-style: normal;    
+    transform: translate(-50%,-50%);
+    text-align: justify;
+    margin: top 100px;
+    display: flex;
+  }
+.skill
+{
+    position: absolute;
+    top: 70%;
+    left:65%;
+    font-size: 80%;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: underline;
+    transform:translate(-50%,-50%);
+}
+.Technical
+{
+    position: absolute;
+    top: 90%;
+    left:50%;
+    order:10%;
+    font-size: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+   
+    transform:translate(-50%,-50%);
+}
+.NonTechnical
+{
+    position: absolute;
+    top: 86%;
+    left:80%;
+    order:10%;
+    font-size: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+   
+    transform:translate(-50%,-50%);
+}
+.Project
+
+{   top:120%;
+    left:50%;
+    position: absolute;
+    font-size: 250%;
+    font-family: Arial, Helvetica, sans-serif;
+   text-decoration:underline;
+   text-shadow: 10%;
+    transform:translate(-50%,-50%);
+}
+.beamimg
+{
+    top:130%;
+    left:73%;
+    position: absolute;
+    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)), url("Image\download (2).jpeg");
+}
+.beam
+{
+    top:135%;
+    left: 33.5%;
+    position: absolute;
+    font-size: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+    transform:translate(-50%,-50%);
+}
+.hearthimg
+{
+    top:165%;
+    left:0.5%;
+    position: absolute;
+    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)), url("Image\images (2).jpeg");
+}
+.hearth
+{
+    top:180%;
+    left: 50%;
+    position: absolute;
+    font-size: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+    transform:translate(-50%,-50%);
+}
+.healthimg
+{
+    top:220%;
+    left:73%;
+    position: absolute;
+    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)), url("Image\images (3).jpeg");
+}
+.health
+{
+    top:230%;
+    left:33.5%;
+    position: absolute;
+    font-size: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+    transform:translate(-50%,-50%);
+}
+.Contact
+{
+    top:260%;
+    left:50%;
+    position: absolute;
+    font-size: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+   text-decoration:underline;
+   text-shadow: 10%;
+    transform:translate(-50%,-50%);
+}
+.nav2
+{
+   display: flex;
+   align-items:center ;
+   justify-content: space-between;
+   padding: 200px 50;
+}
+
+.Contact-detail
+{
+   position:absolute;
+   font-size:50%;
+   top: 270%;
+   left: 30%;
+   transform: translate(-50%,-50%);
+   text-align: center;
+   margin: top 100px;
+}
+
+.Contact-detail
+{
+       
+   background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)), url("Image\download.png");
+   
+}
+.mail-logo
+{
+   position:absolute;
+   top:35%;
+   width:20px;
+   left:-20%;
+   white-space:nowrap;
+   cursor:webkit-zoom-in;
+
+}
+.phone
+{
+   position:absolute;
+   font-size:60%;
+   top: 270%;
+   left: 50%;
+   transform: translate(-50%,-50%);
+   text-align: center;
+   margin: top 100px;}
+.phone
+{
+   background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)), url("Image\images__1_-removebg-preview.png");
+   
+}
+.phone-logo
+{
+   position:absolute;
+   top:35%;
+   width:40px;
+   left:-60%;   
+   cursor:progress;
+
+}
+.link
+{
+   position:absolute;
+   font-size:60%;
+   top: 270%;
+   left: 70%;
+   transform: translate(-50%,-50%);
+   text-align: center;
+   margin: top 100px;}
+.link
+{
+   background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)), url("Image\download (3).png");
+   
+}
+.link-logo
+{
+   position:absolute;
+   top:35%;
+   width:40px;
+   left:-60%;   
+   cursor:progress;
+
+}
